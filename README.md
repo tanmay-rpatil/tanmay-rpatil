@@ -10,9 +10,5 @@
   - IoT
 
 ## 📫 How to reach me 
-  -To Do
+  -[https://img.shields.io/twitter/follow/TannyRpatil?color=blue&label=Follow%21&logo=twitter&style=plastic]
 
-<!---
-tanmay-rpatil/tanmay-rpatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
