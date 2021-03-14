@@ -10,5 +10,5 @@
   - IoT
 
 ## 📫 How to reach me 
-  -[https://img.shields.io/twitter/follow/TannyRpatil?color=blue&label=Follow%21&logo=twitter&style=plastic]
+  ![Twitter](https://img.shields.io/twitter/follow/TannyRpatil?color=blue&label=Follow%21&logo=twitter&style=plastic)
 
