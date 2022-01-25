@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @tanmay-rpatil
+# 👋 Hi, I’m Tanmay! 
   [![Twitter Follow](https://img.shields.io/twitter/follow/TannyRpatil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TannyRpatil)
 
 ## 📫 Where to find me online  
@@ -10,13 +10,16 @@
 ## 👀 I’m interested in 
   
   - Backend Web Dev
-  - Hardware 
+  - Computer Hardware 
   - Photography
+  - Reading
   - Blogging 
 
 ## 🌱 I’m currently learning 
   - Web Scraping
   - IoT
+## Stats 
+[![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay-rpatil&hide=stars,contribs&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖥 Setup
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
