@@ -18,7 +18,7 @@
 ## 🌱 I’m currently learning 
   - Web Scraping
   - IoT
-## Stats 
+## 📈 Stats 
 [![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay-rpatil&hide=stars,contribs&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖥 Setup
