@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Tanmay! 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/TannyRpatil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TannyRpatil)
 
 ## 📫 Where to find me online  
   [![Instagram](https://img.shields.io/badge/tanny__p14%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tanny__p14/)
@@ -10,14 +9,15 @@
 ## 👀 I’m interested in 
   
   - Backend Web Dev
+  - Systems
   - Computer Hardware 
   - Photography
   - Reading
   - Blogging 
 
 ## 🌱 I’m currently learning 
-  - Web Scraping
-  - IoT
+  - Distributed Systems
+  
 ## 📈 Stats 
 [![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay-rpatil&hide=stars,contribs&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,6 +30,6 @@
 ---
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Manjaro](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![CPU](https://img.shields.io/badge/AMD-Athlon-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![GPU](https://img.shields.io/badge/AMD-Radeon_Vega_3-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
